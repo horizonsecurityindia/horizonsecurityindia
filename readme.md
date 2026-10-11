@@ -1,134 +1,88 @@
-# Horizon Security — Vercel Security Checker
+ <div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HORIZON-SECURITY-0F7FFF?style=for-the-badge&logo=shield&logoColor=white" alt="Horizon Security" />
-  <img src="https://img.shields.io/badge/WEB-DEVELOPMENT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Development" />
-</p>
+# HORIZON SECURITY
 
-<p align="center">
-  <strong>Cybersecurity. Software Engineering. Secure Innovation.</strong>
-</p>
-
-<p align="center">
-  An open-source project by <strong>Horizon Security</strong>, a security and software development organization based in Maharashtra, India.
-</p>
-
-<p align="center">
-  <a href="https://horizonsec.vercel.app/">Website</a> •
-  <a href="https://github.com/horizonsecurityindia">GitHub Organization</a> •
-  <a href="https://github.com/horizonsecurityindia/vercel-security-checker/issues">Report an Issue</a>
-</p>
-
----
-
-## About the Project
-
-**Vercel Security Checker** is a security-focused project designed to help developers review website security configurations and identify common deployment weaknesses.
-
-The goal is to make practical security checks easier to understand, actionable, and accessible to developers building and deploying modern web applications.
-
-The project focuses on defensive security, configuration analysis, and actionable remediation guidance.
-
-> **Project status:** Initial development. Features will be marked as available as they are implemented and tested.
-
-## What We Aim to Check
-
-- **HTTP Security Headers** — Review important browser security headers and identify missing or potentially weak configurations.
-- **HTTPS Configuration** — Examine HTTPS availability and HTTP-to-HTTPS redirect behavior.
-- **Cookie Security** — Review observable cookie attributes such as `Secure`, `HttpOnly`, and `SameSite`.
-- **Public Exposure Checks** — Check selected public paths for unintended exposure of files such as source maps or configuration artifacts.
-- **Security Reports** — Present findings with evidence, severity, and remediation recommendations.
-- **Developer Experience** — Provide clear results through a simple, responsive interface.
-
-These are planned capabilities, not claims that every check is already implemented.
-
-## Technology Stack
+### Cybersecurity • Software Development • Secure Innovation
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-0F7FFF?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Development" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
 
-The final stack may evolve during development.
+**Engineering secure, useful, and reliable digital solutions.**
 
-## Why This Project?
+[Website](https://horizonsec.vercel.app/) · [GitHub](https://github.com/horizonsecurityindia)
 
-Website security is not limited to finding vulnerabilities. Secure deployment, correct configuration, clear error handling, and responsible development practices are also important.
-
-This project aims to help developers:
-
-- Understand common web security configuration issues.
-- Improve deployment security.
-- Learn practical defensive security concepts.
-- Apply remediation guidance to their own applications.
-- Integrate security awareness into the development workflow.
-
-## Responsible Use
-
-This project is intended for authorized defensive security assessments.
-
-- Test only websites you own or have explicit permission to assess.
-- Use non-destructive checks and respect rate limits.
-- Do not attempt to bypass authentication or access private information.
-- Do not treat automated results as a substitute for a professional security assessment.
-
-A missing security header does not automatically establish that a website is vulnerable. Results require context and verification.
-
-## Roadmap
-
-- [ ] Implement the initial security-checking interface.
-- [ ] Add HTTP security header analysis.
-- [ ] Add HTTPS and redirect checks.
-- [ ] Review observable cookie security attributes.
-- [ ] Implement safe public-exposure checks.
-- [ ] Add severity levels and remediation guidance.
-- [ ] Add automated tests.
-- [ ] Support structured JSON reports.
-- [ ] Document deployment on Vercel.
-- [ ] Publish the first stable release.
-
-## Contributing
-
-Contributions, bug reports, documentation improvements, and feature suggestions are welcome.
-
-Before submitting changes, please:
-
-1. Explain the problem or improvement.
-2. Include reproducible steps where applicable.
-3. Add tests for new functionality where practical.
-4. Follow responsible disclosure practices for security issues.
-
-Please do not publish sensitive vulnerability details or secrets in public issues.
-
-## About Horizon Security
-
-**Horizon Security** is a security and software development organization based in Maharashtra, India.
-
-Our areas of interest include:
-
-- Cybersecurity and authorized security testing
-- Web application and API security
-- Software and web development
-- Android application development
-- Security automation and developer tools
-- Cloud and deployment security
-- Security research and technical education
-
-Our goal is to combine practical engineering with security-first thinking to build useful, maintainable, and reliable technology.
-
-**Website:** https://horizonsec.vercel.app  
-**GitHub:** https://github.com/horizonsecurityindia
-
-## License
-
-This project is intended to be released under the **MIT License**. Add the repository's `LICENSE` file before treating the project as officially licensed.
+</div>
 
 ---
 
-<p align="center">
-  <strong>HORIZON SECURITY</strong><br/>
-  Security-First Engineering. Responsible Innovation.
+## Who We Are
+
+**Horizon Security** is a cybersecurity and software development organization based in Maharashtra, India.
+
+We bring together security research, software engineering, and practical technology development to explore security challenges and build solutions with security in mind.
+
+Our approach combines responsible research, clean engineering, and continuous learning.
+
+## What We Do
+
+| Area | Focus |
+|---|---|
+| Cybersecurity | Authorized security assessments and defensive security research |
+| Web Security | Web application security, API security, and secure configurations |
+| Software Development | Reliable, maintainable software and developer tools |
+| Web Development | Responsive websites and modern web applications |
+| Android Development | Android applications and mobile application security |
+| Automation | Scripts, integrations, and productivity tools |
+| Cloud Security | Deployment security, configuration reviews, and security best practices |
+| Security Research | Learning, analysis, and responsible vulnerability research |
+
+## Our Projects
+
+We aim to build and share practical tools, educational resources, and software projects that help developers improve security and productivity.
+
+Explore our repositories for project updates, source code, documentation, and contributions.
+
+**Our principles:**
+- Security by design
+- Responsible disclosure
+- Privacy and data protection
+- Open-source collaboration
+- Practical, well-documented engineering
+
+## Technology
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,linux,git,github,vercel" alt="Technologies including Python, JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Linux, Git, GitHub, and Vercel" />
 </p>
+
+*Technologies vary by project; this list represents our areas of interest, not a claim that every technology is used in every project.*
+
+## Work With Us
+
+Have a project idea, security question, collaboration proposal, or open-source contribution?
+
+Visit our website to learn more about Horizon Security and our work.
+
+<p align="center">
+  <a href="https://horizonsec.vercel.app/">
+    <img src="https://img.shields.io/badge/EXPLORE_OUR_WEBSITE-0F7FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore our website" />
+  </a>
+  <a href="https://github.com/horizonsecurityindia">
+    <img src="https://img.shields.io/badge/EXPLORE_OUR_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore our GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**HORIZON SECURITY & DEVELOPMENT**
+
+*Build Secure. Develop Responsibly. Innovate Continuously.*
+
+<sub>Maharashtra, India · Security-first engineering</sub>
+
+</div>
